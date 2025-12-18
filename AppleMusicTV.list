@@ -1,3 +1,5 @@
 #AppleMusicTV(US Only)
 DOMAIN-SUFFIX,tv.applemusic.com
 DOMAIN-SUFFIX,radio.itunes.apple.com
+DOMAIN-SUFFIX,itsliveradio.apple.com
+DOMAIN-SUFFIX,radio-activity.itunes.apple.com
